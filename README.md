@@ -37,19 +37,10 @@ Daraz.pk : https://www.daraz.pk
 | Low      | 2     |
 | **Total**| **10**|
 
-## Findings Table
+## Findings Table & Audit Files
 
-| # | View | Screen Size | Page / Element | Issue Description | Severity | Screenshot |
-| 1 | Desktop | 1920×1080 | Header search icon | Search icon too small to click easily | Low | `desktop_header.png` |
-| 2 | Desktop | 1920×1080 | Search Box page | Page renders in narrow mobile column; majority of screen appears empty | High | `desktop_searchbox_broken.png` |
-| 3 | Desktop | 1920×1080 | My Account page | Account page shows the same narrow mobile layout | High | `desktop_account_broken.png` |
-| 4 | Tablet | 768×1024 | My Account page | Tablet layout doesn't work — page stays narrow like mobile | High | `tablet_account_broken.png` |
-| 5 | Tablet | 768×1024 | Search Box page | Same narrow column issue | High | `tablet_searchbox_broken.png` |
-| 6 | Tablet | 768×1024 | Homepage | Narrow column; sidebar takes too much width; only 3 products per row | Medium | `tablet_homepage_broken.png` |
-| 7 | Tablet | 768×1024 | Icon row below search | Daraz Mart and Buy More cut off; no visible scroll indicator | Medium | `tablet_icons_cutoff.png` |
-| 8 | Mobile | 390×844 | Icon row below search | Buy More icon partially cut off at right edge | Low | `mobile_icons_cutoff.png` |
-| 9 | Mobile | 390×844 | Navbar | Navbar content spills past the right edge and overflows | Medium | `mobile_navbar_overflow.png` |
-| 10 | Mobile | 390×844 | Floating action buttons | Floating icons stack on top of each other and cover the footer | Medium | `mobile_floating_overlap.png` |
+- 📊 [Responsive_Audit_Report.xlsx](Responsive_Audit_Report.xlsx) — Full audit matrix with all 14 findings
+- 📁 [screenshots/](screenshots/) — All evidence screenshots
 
 ## Key Issues Found
 
