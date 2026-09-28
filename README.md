@@ -64,5 +64,5 @@ Used AI to identify edge cases such as slow-3G throttling and additional respons
 
 ## Author
 
-Sobiya  
+Sobia  
 QA Internship : Barakah Tech Labs
