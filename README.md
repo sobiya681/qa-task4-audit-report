@@ -39,8 +39,8 @@ Daraz.pk : https://www.daraz.pk
 
 ## Findings Table & Audit Files
 
-- 📊 [Responsive_Audit_Report.xlsx](Responsive_Audit_Report.xlsx) — Full audit matrix with all findings
-- 📁 [Screenshots folder](Screenshots/) — All evidence screenshots
+- 📊 [Responsive_Audit_Report.xlsx](qa-task4/Responsive_Audit_Report.xlsx) — Full audit matrix with all findings
+- 📁 [Screenshots folder](qa-task4/Screenshots/) — All evidence screenshots
 
 ## Key Issues Found
 
